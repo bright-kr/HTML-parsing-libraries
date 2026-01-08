@@ -1,8 +1,8 @@
 # Webスクレイピング을 위한 최고의 HTML 파싱 라이브러리
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/) 
 
-[web scraping](https://github.com/luminati-io/Awesome-Web-Scraping) 및 데이터 추출을 위한 최고의 HTML 파서를 살펴보고, `httpx`, `AIOHTTP`, `urllib` 등을 확인해 보십시오.
+[web scraping](https://github.com/bright-kr/Awesome-Web-Scraping) 및 데이터 추출을 위한 최고의 HTML 파서를 살펴보고, `httpx`, `AIOHTTP`, `urllib` 등을 확인해 보십시오.
 
 ## HTML 파서란 무엇입니까?
 
@@ -113,7 +113,7 @@ HTML 파서는 HTML 문서를 처리하여, 탐색 및 조작이 쉬운 구조�
 
 특정 웹사이트를 스クレイピング하는 방법을 알아보십시오:
 
-- [**Amazon**](https://github.com/luminati-io/LinkedIn-Scraper)
-- [**LinkedIn**](https://github.com/luminati-io/LinkedIn-Scraper)
-- [**Google Maps**](https://github.com/luminati-io/Google-Maps-Scraper)
-- [**Google News**](https://github.com/luminati-io/Google-News-Scraper)
+- [**Amazon**](https://github.com/bright-kr/LinkedIn-Scraper)
+- [**LinkedIn**](https://github.com/bright-kr/LinkedIn-Scraper)
+- [**Google Maps**](https://github.com/bright-kr/Google-Maps-Scraper)
+- [**Google News**](https://github.com/bright-kr/Google-News-Scraper)
