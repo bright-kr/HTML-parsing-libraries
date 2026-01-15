@@ -1,4 +1,4 @@
-# Webスクレイピング을 위한 최고의 HTML 파싱 라이브러리
+# Web스크레이핑을 위한 최고의 HTML 파싱 라이브러리
 
 [![Promo](https://github.com/bright-kr/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/) 
 
@@ -6,7 +6,7 @@
 
 ## HTML 파서란 무엇입니까?
 
-HTML 파서는 HTML 문서를 처리하여, 탐색 및 조작이 쉬운 구조화된 데이터 형식으로 변환합니다. 이들은 HTML 코드를 분석하여 문서의 DOM을 나타내는 트리 형태의 구조를 구축합니다. HTML 파서는 Webスクレイピング에 필수적이며, 웹사이트에서 상품명과 가격 같은 정보를 추출할 수 있게 해줍니다.
+HTML 파서는 HTML 문서를 처리하여, 탐색 및 조작이 쉬운 구조화된 데이터 형식으로 변환합니다. 이들은 HTML 코드를 분석하여 문서의 DOM을 나타내는 트리 형태의 구조를 구축합니다. HTML 파서는 Web스크레이핑에 필수적이며, 웹사이트에서 상품명과 가격 같은 정보를 추출할 수 있게 해줍니다.
 
 ## HTML 파서 선택 시 주요 고려 사항
 
@@ -109,7 +109,7 @@ HTML 파서는 HTML 문서를 처리하여, 탐색 및 조작이 쉬운 구조�
 
 ## 결론
 
-이 가이드는 최고의 HTML 파싱 라이브러리를 살펴보았습니다. 선택은 사용하시는 프로그래밍 언어와 프로젝트 요구 사항에 따라 달라집니다. 또한 웹사이트는 アンチボット 기술을 사용할 수 있지만, [Bright Data의 プロキシ 서비스](https://brightdata.co.kr/proxy-types) 또는 [Web Scrapers](https://brightdata.co.kr/products/web-scraper) 같은 도구를 활용하면 파싱을 위한 HTML을 가져오는 데 도움이 됩니다.
+이 가이드는 최고의 HTML 파싱 라이브러리를 살펴보았습니다. 선택은 사용하시는 프로그래밍 언어와 프로젝트 요구 사항에 따라 달라집니다. 또한 웹사이트는 안티봇 기술을 사용할 수 있지만, [Bright Data의 프록시 서비스](https://brightdata.co.kr/proxy-types) 또는 [Web Scrapers](https://brightdata.co.kr/products/web-scraper) 같은 도구를 활용하면 파싱을 위한 HTML을 가져오는 데 도움이 됩니다.
 
 특정 웹사이트를 스クレイピング하는 방법을 알아보십시오:
 
